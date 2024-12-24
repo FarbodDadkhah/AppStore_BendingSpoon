@@ -1,0 +1,564 @@
+[
+    {
+      id: '11874320644',
+      userName: 'mikestone64',
+      userUrl: 'https://itunes.apple.com/us/reviews/id18828955',
+      version: '2.10.75',
+      score: 1,
+      title: 'Unethical Business- DO NOT USE',
+      text: 'I signed up for a $0.99 trial, canceled it before it renewed, but was still charge $9.99 three times after. I requested a refund, showed proof I canceled the subscription before the trial ended and was ultimately told that I canceled from the Apple app side of things, but needed to from their website to officially cancel. \n' +
+        '\n' +
+        'That’s a very sneaky way to steal people’s money. It use to be businesses hoped you would forget to cancel their trial and get you that way, but not Remini. They’ll just claim you didn’t cancel properly, even when screen shot proof is provided. \n' +
+        '\n' +
+        'Subscribe at your own risk.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-25T12:39:28-07:00'
+    },
+    {
+      id: '11874233927',
+      userName: 'Cra5hRac3r',
+      userUrl: 'https://itunes.apple.com/us/reviews/id402729224',
+      version: '2.10.75',
+      score: 5,
+      title: 'Photo enhancer is the best!!',
+      text: 'This is absolutely a joy to use!',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-25T12:07:34-07:00'
+    },
+    {
+      id: '11874116937',
+      userName: 'donald duck girl',
+      userUrl: 'https://itunes.apple.com/us/reviews/id43686236',
+      version: '2.10.75',
+      score: 2,
+      title: 'After the new update could not save so I deleted it.',
+      text: 'After your new update I had to delete your app. I watched the videos then I clicked to save it and your app wouldn’t let me save it after watching those ADS. So I deleted your app. \n' +
+        '\n' +
+        'Update on your app. There’s been no improvement to fix the problems with you app and what your charging for your app isn’t worth it. Your app would be great, but it need some major work done on it. I’m still old school, digital photos are great, but still love my 35mm camera. Here’s the problem with your app. I took out some old photos one major photo is of my dad and his best friend. I used your app and Oh My God, I couldn’t believe how your app took a photo that was slightly blurry and needed some tone adjustment and your results was horrible. Your app took my dad’s friend glasses on his face left part of the glasses on his face, the other half was on his lips. Part of his lip was up to his nose, and the results got worse. So I did it again, and it came out the same. I took another old photo used your app again the results was very bad. Out of all the photos I tested your app on, I only got one good results. For some reason your app changes the person face. I restore old photos but wanted an app that wouldn’t take me a long time to restore. The old fashion way could take me almost two months. I would love to buy your app, but not like the results I get. Cindy',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-25T11:25:38-07:00'
+    },
+    {
+      id: '11873999345',
+      userName: '20thcentury1',
+      userUrl: 'https://itunes.apple.com/us/reviews/id667264448',
+      version: '2.10.75',
+      score: 5,
+      title: 'Love the app',
+      text: 'The enhancement tool on this app is amazing!!!',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-25T10:45:29-07:00'
+    },
+    {
+      id: '11873440830',
+      userName: 'Rose2567489',
+      userUrl: 'https://itunes.apple.com/us/reviews/id855082551',
+      version: '2.10.75',
+      score: 5,
+      title: 'Love this app',
+      text: 'Makes editing photos so quick and easy with beautiful realistic results.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-25T07:52:32-07:00'
+    },
+    {
+      id: '11872292619',
+      userName: 'Moorhead69',
+      userUrl: 'https://itunes.apple.com/us/reviews/id343357404',
+      version: '2.10.75',
+      score: 5,
+      title: 'Old pictures',
+      text: 'Love it so much!!!',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-25T01:20:25-07:00'
+    },
+    {
+      id: '11871342746',
+      userName: 'eliza1978',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1082729711',
+      version: '2.10.75',
+      score: 5,
+      title: 'Great app',
+      text: 'Great application for an image enhancement, I love this app',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-24T17:49:39-07:00'
+    },
+    {
+      id: '11871284319',
+      userName: 'Shillan sadiq',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1054082715',
+      version: '2.10.75',
+      score: 4,
+      title: 'Best app',
+      text: 'Please add free effects',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-24T17:24:13-07:00'
+    },
+    {
+      id: '11870892975',
+      userName: 'Patric Dayan',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1521624381',
+      version: '2.10.75',
+      score: 5,
+      title: 'Súper útil',
+      text: 'Me encanta, súper !!!',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-24T14:33:24-07:00'
+    },
+    {
+      id: '11869672659',
+      userName: '😘lily’s',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1710603282',
+      version: '2.10.75',
+      score: 5,
+      title: 'Amazing app',
+      text: 'Such a one of the best app',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-24T07:37:41-07:00'
+    },
+    {
+      id: '11868464002',
+      userName: 'Adjejevwe',
+      userUrl: 'https://itunes.apple.com/us/reviews/id558859767',
+      version: '2.10.75',
+      score: 2,
+      title: 'Not even close',
+      text: 'The enhancement pictures were worse than my original selfies. \n' +
+        'I gave 2 stars instead of 1 because the cartoon enhancements was fun to play with',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-24T00:27:11-07:00'
+    },
+    {
+      id: '11868438077',
+      userName: 'ej916_idk',
+      userUrl: 'https://itunes.apple.com/us/reviews/id38113526',
+      version: '2.10.75',
+      score: 1,
+      title: 'Doesn’t produce photos a lot',
+      text: 'App hangs and you have to constantly uninstall and reinstall',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-24T00:15:08-07:00'
+    },
+    {
+      id: '11868072642',
+      userName: 'Emilysledge11',
+      userUrl: 'https://itunes.apple.com/us/reviews/id171745528',
+      version: '2.10.75',
+      score: 2,
+      title: 'Features aren’t proportional',
+      text: 'The photos looked awful. They made the features of my face far too large for any of the bodies they put it on. Waste of money.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-23T21:16:53-07:00'
+    },
+    {
+      id: '11867345806',
+      userName: 'Tyralak',
+      userUrl: 'https://itunes.apple.com/us/reviews/id109122305',
+      version: '2.10.75',
+      score: 2,
+      title: 'Missing features',
+      text: 'I started in the web site and was able to upscale a single photo which was then transferred to the app after I purchased a subscription. I went straight to the app and it did not have an image upscaler anywhere in the app. I tried to use the web site again and it kept sending me to the app. That’s the only thing I wanted it for. Going to have to unsubscribe.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-23T15:49:49-07:00'
+    },
+    {
+      id: '11867335569',
+      userName: 'Chadlyyyyuyyyyyyyy',
+      userUrl: 'https://itunes.apple.com/us/reviews/id384294210',
+      version: '2.10.75',
+      score: 1,
+      title: 'I wish I could give negative stars',
+      text: 'Absolute scam, not only was this app horrible at creating AI, it also failed to even enhance normal pictures. It actually made pictures worse quality. On top of that the low life scam artists some how denied when I canceled my subscription and thus forced me to continue paying and  have not given any refund whatsoever despite I absolutely canceled subscription immediately after seeing how poor quality this app is. Any 5 star reviews are no doubt fake. AVOID AT ALL COSTS!!!!!',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-23T15:45:16-07:00'
+    },
+    {
+      id: '11867261746',
+      userName: 'MichelAddy',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1714146592',
+      version: '2.10.75',
+      score: 5,
+      title: 'Perfect app for photo and video editing',
+      text: 'Best App ever.. it’s super good and if high quality',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-23T15:12:16-07:00'
+    },
+    {
+      id: '11866995721',
+      userName: 'الند رمظان',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1714125226',
+      version: '2.10.75',
+      score: 5,
+      title: 'اربيل',
+      text: 'اربيل',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-23T13:19:22-07:00'
+    },
+    {
+      id: '11866282351',
+      userName: 'LoveAndLightToYou',
+      userUrl: 'https://itunes.apple.com/us/reviews/id171260567',
+      version: '2.10.75',
+      score: 1,
+      title: 'Changes ethnicity',
+      text: 'All it did was lighten my skin and changed my ethnic features',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-23T09:07:38-07:00'
+    },
+    {
+      id: '11866262915',
+      userName: 'cassieml',
+      userUrl: 'https://itunes.apple.com/us/reviews/id459135067',
+      version: '2.10.75',
+      score: 1,
+      title: 'Too many adds',
+      text: 'Just deleted this app after having it for years because the entire thing is add pop ups. I understand watching an add for a free edit, but you can’t even open the add without being stuck on an add screen forever.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-23T09:01:24-07:00'
+    },
+    {
+      id: '11865571857',
+      userName: 'Canncannnn9222',
+      userUrl: 'https://itunes.apple.com/us/reviews/id487901047',
+      version: '2.10.75',
+      score: 5,
+      title: 'Pic',
+      text: 'Love how beautifully pictures are enhanced',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-23T05:24:25-07:00'
+    },
+    {
+      id: '11864716505',
+      userName: 'sukhbindersingh',
+      userUrl: 'https://itunes.apple.com/us/reviews/id739996831',
+      version: '2.10.75',
+      score: 5,
+      title: 'Amazing app',
+      text: 'This application is genuinely good . I use it time to time very useful .',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-22T23:19:36-07:00'
+    },
+    {
+      id: '11864642253',
+      userName: 'sfshrh',
+      userUrl: 'https://itunes.apple.com/us/reviews/id35625221',
+      version: '2.10.75',
+      score: 1,
+      title: 'Nope',
+      text: 'I got this solely for the “try a new hairstyle” feature. They have like 10 styles to choose from. The end result looked almost nothing like me bc the “enhance” looks fake. Might try “restore” before I get rid of it, but might not…',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-22T22:41:29-07:00'
+    },
+    {
+      id: '11864506170',
+      userName: 'jsjarju',
+      userUrl: 'https://itunes.apple.com/us/reviews/id745019792',
+      version: '2.10.75',
+      score: 5,
+      title: 'Amazing',
+      text: 'Love how it clears the blurred photos so well',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-22T21:32:07-07:00'
+    },
+    {
+      id: '11864428603',
+      userName: 'LolaAthena',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1213226620',
+      version: '2.10.75',
+      score: 5,
+      title: 'Love it',
+      text: 'I’m using the free version so far it works makes the photos a lot better 😍',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-22T20:52:45-07:00'
+    },
+    {
+      id: '11864176962',
+      userName: 'obinna kalylu',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1249740654',
+      version: '2.10.75',
+      score: 5,
+      title: 'Best',
+      text: 'It’s always satisfy me ..',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-22T18:55:14-07:00'
+    },
+    {
+      id: '11863552863',
+      userName: 'Sizuka789',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1713799989',
+      version: '2.10.75',
+      score: 2,
+      title: 'About Remini',
+      text: 'Too much add is not expected just tired of it otherwise not bad',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-22T14:19:32-07:00'
+    },
+    {
+      id: '11862771863',
+      userName: 'AndryKM',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1586228083',
+      version: '2.10.72',
+      score: 5,
+      title: 'Simplemente la mejor 🌟🌟🌟🌟🌟',
+      text: 'La mejor🏅',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-22T09:29:57-07:00'
+    },
+    {
+      id: '11861945493',
+      userName: 'Nazilla bikzad',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1186234004',
+      version: '2.10.75',
+      score: 5,
+      title: 'Please, I want to the Remini apps free a long time. I don’t have many aunts dollar card. Thank you',
+      text: 'Very interesting app Remini is very good. I like this app because I can’t hide my photos. Thank you so much.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-22T05:08:03-07:00'
+    },
+    {
+      id: '11861085573',
+      userName: 'MallieJax',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1685611377',
+      version: '2.10.75',
+      score: 5,
+      title: 'Excellent!!',
+      text: 'I tried this a few months ago and I had melting hands / fingers lol and blended shoes with my feet?! However, none of the AI generated pics showed that glitch this time! Impressed!',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-21T22:47:36-07:00'
+    },
+    {
+      id: '11860572150',
+      userName: 'deeznutsinmyass',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1523866505',
+      version: '2.10.75',
+      score: 1,
+      title: 'i miss when the ads were thirty seconds or less',
+      text: 'uninstalled cuz im getting nearly one minute ads and even if i cancel the process it keeps me on the same ad until it hits 0',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-21T18:38:12-07:00'
+    },
+    {
+      id: '11859595852',
+      userName: 'Sweetie Pie Sugar Plum',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1301111480',
+      version: '2.10.75',
+      score: 1,
+      title: 'Do not even try!',
+      text: 'The will continue to charge even if you cancel during a trial.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-21T11:47:12-07:00'
+    },
+    {
+      id: '11859228726',
+      userName: 'Salinan54',
+      userUrl: 'https://itunes.apple.com/us/reviews/id244816586',
+      version: '2.10.65',
+      score: 5,
+      title: 'I love it!',
+      text: 'This has changed my way of gift giving!\n' +
+        'It keeps memories alive. It bring life to my photos.\n' +
+        'I use it everyday! Thank you!!!\n' +
+        '\n' +
+        'Grateful in Hollister,CA',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-21T09:39:04-07:00'
+    },
+    {
+      id: '11857232987',
+      userName: 'Roslin lopez',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1551852583',
+      version: '2.10.72',
+      score: 5,
+      title: 'Increíble 😊',
+      text: 'Súper 😌',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-20T20:28:49-07:00'
+    },
+    {
+      id: '11856978655',
+      userName: 'Doctor Hussien',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1713174501',
+      version: '2.10.75',
+      score: 5,
+      title: 'Iraq',
+      text: 'Good  change',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-20T18:33:17-07:00'
+    },
+    {
+      id: '11856691379',
+      userName: 'Asai1991',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1695183368',
+      version: '2.10.75',
+      score: 5,
+      title: 'App is lacking again',
+      text: 'Remini app is lacking again. Why most of the time lacking?',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-20T16:25:26-07:00'
+    },
+    {
+      id: '11855323680',
+      userName: 'Neuble',
+      userUrl: 'https://itunes.apple.com/us/reviews/id122012215',
+      version: '2.10.75',
+      score: 2,
+      title: 'Too perfect',
+      text: 'The AI is to a unnatural looking, doesn’t look like me and or is too perfect',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-20T08:17:58-07:00'
+    },
+    {
+      id: '11854212271',
+      userName: 'Bobbie Lynn Kanouff',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1638567097',
+      version: '2.10.75',
+      score: 5,
+      title: 'I love this program!',
+      text: 'So user friendly, I love it!',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-20T02:09:21-07:00'
+    },
+    {
+      id: '11853248024',
+      userName: 'EdOktober',
+      userUrl: 'https://itunes.apple.com/us/reviews/id463152138',
+      version: '2.10.75',
+      score: 2,
+      title: 'Frozen',
+      text: 'Freezes the devices up,  UNINSTAL ASAP',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T19:16:51-07:00'
+    },
+    {
+      id: '11853202111',
+      userName: 'Chaplin Jr',
+      userUrl: 'https://itunes.apple.com/us/reviews/id220337802',
+      version: '2.10.75',
+      score: 1,
+      title: 'You are doubling the price? How greedy!',
+      text: 'This is one of my favorite apps and one I use all the time. Even though it often it distorts the faces. I don’t have much money and the $4.99 a month subscription was hard on me but I just liked it so much I went on struggling to pay it. Now you greedy chumps are DOUBLING the price! $9.99! Not a dollar hike but DOUBLING it! Absolutely no freaking way. On November 14 I am deleting the app. I hope you go bankrupt you greedy scoundrels.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T18:58:01-07:00'
+    },
+    {
+      id: '11852866130',
+      userName: 'Nattpalm',
+      userUrl: 'https://itunes.apple.com/us/reviews/id662723432',
+      version: '2.10.75',
+      score: 1,
+      title: 'Keeps charging me even after a .99 download and a subscription cancellation',
+      text: 'I had to pay .99 just to download and then to actually try any of the “filters” it wanted to charge me another $9.99. I cancelled immediately but now two weeks later I have been charged 9.99 twice. I cannot unsubscribe and I have deleted the app. This is a waste of money and time!!',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T16:35:00-07:00'
+    },
+    {
+      id: '11852865459',
+      userName: 'Thief catcher',
+      userUrl: 'https://itunes.apple.com/us/reviews/id105209610',
+      version: '2.10.75',
+      score: 1,
+      title: 'Do NOT buy',
+      text: 'I tried the $.99 and the pics looked nothing like me. I have short hair & all pics featured long horribly styled hair and made the skin look like I was in my 20’s not late 50s. Sent me an email it was non-refundable. So unless ur in your 20s don’t waste your money.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T16:34:43-07:00'
+    },
+    {
+      id: '11852041565',
+      userName: '_.Sarafr',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1712721393',
+      version: '2.10.65',
+      score: 5,
+      title: 'Remini',
+      text: 'Great👌🏻',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T11:02:33-07:00'
+    },
+    {
+      id: '11852008756',
+      userName: 'boxed by jam',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1644396013',
+      version: '2.10.75',
+      score: 5,
+      title: 'Best app',
+      text: 'Great qualities',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T10:51:28-07:00'
+    },
+    {
+      id: '11851838875',
+      userName: 'icybluefairy',
+      userUrl: 'https://itunes.apple.com/us/reviews/id49020878',
+      version: '2.10.75',
+      score: 2,
+      title: 'Overly annoying ads',
+      text: 'The app works well if you can get through the HUGE amount of advertisements. Every move requires two unskipable ads that keep popping up over and over, and are often the SAME ads back to back. \n' +
+        'But, after about five minutes of ads, it does a nice job of enhancing photos.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T09:56:33-07:00'
+    },
+    {
+      id: '11851674830',
+      userName: 'Tammyt868',
+      userUrl: 'https://itunes.apple.com/us/reviews/id173312031',
+      version: '2.10.75',
+      score: 1,
+      title: 'Nope',
+      text: 'I tried the life version. I’m a black version, I’m not white and it did not work at all. The grated image looks nothing like me. I’m requesting a refund.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T09:06:36-07:00'
+    },
+    {
+      id: '11851264574',
+      userName: 'Bpinkz',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1619631265',
+      version: '2.10.75',
+      score: 5,
+      title: 'WOW',
+      text: 'SUPER AMAZING',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-19T07:08:36-07:00'
+    },
+    {
+      id: '11849698542',
+      userName: 'natalhyvaf',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1712487396',
+      version: '2.10.75',
+      score: 5,
+      title: '🫠',
+      text: 'Ojalá fuera gratis',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-18T21:11:12-07:00'
+    },
+    {
+      id: '11848880589',
+      userName: 'Rherrera753',
+      userUrl: 'https://itunes.apple.com/us/reviews/id337334576',
+      version: '2.10.65',
+      score: 5,
+      title: 'Incredible app for photos',
+      text: 'I love this app!! I have been using it to enhance the quality of old photos and some taken with not so great cameras.  The results are phenomenal and look like they were taken with a professional camera.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-18T15:21:54-07:00'
+    },
+    {
+      id: '11847323065',
+      userName: '1748:948292',
+      userUrl: 'https://itunes.apple.com/us/reviews/id1480545315',
+      version: '2.10.75',
+      score: 1,
+      title: 'Careful',
+      text: 'They continue to charge you even after you have canceled.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-18T06:15:47-07:00'
+    },
+    {
+      id: '11845820453',
+      userName: 'JRHOLMES777',
+      userUrl: 'https://itunes.apple.com/us/reviews/id365539567',
+      version: '2.10.75',
+      score: 1,
+      title: 'Free 1 week trial',
+      text: 'I signed up for the one week trial and it charged my card $9.99 so is this a scam? I want my money back.',
+      url: 'https://itunes.apple.com/us/review?id=1470373330&type=Purple%20Software',
+      updated: '2024-10-17T19:23:21-07:00'
+    }
+  ]
