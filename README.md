@@ -7,11 +7,7 @@ This project focuses on retrieving data from the Apple AppStore and performing N
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data](#data)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
